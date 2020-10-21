@@ -1,6 +1,6 @@
 """This code is just to demonstrate the usage of a context manager. The actual usage of the SqlAlchemy library involves setting up a connection to the database engine and a table. 
 
-If you wish learn to use the SqlAlchemy library to work with databases, I recommend following the tutorials at the links listed below:
+If you wish to learn to use the SqlAlchemy library to work with databases, I recommend following the tutorials at the links listed below:
 
 https://youtu.be/xMT3ckHOrx0 (Python 101 by Mike Driscoll)
 https://realpython.com/python-sqlite-sqlalchemy/ (Real Python)"""
